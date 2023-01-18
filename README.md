@@ -1,6 +1,7 @@
 # prueba Api con JavaScript
 Extraer los primero datos de un api y mostrarlos en una pagina web
 
+se uso HTML, CSS y JavaScript
 - Se crea una Tabla extrayendo los datos de un api el cual se pasa por un json para realizar la consulta
 - Estos datos se pasan a html para poder mostrarlos
 - No esta optimizado el codigo
