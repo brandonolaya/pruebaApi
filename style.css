@@ -1,0 +1,51 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+h1{
+    text-align: center;
+    font-size: 3rem;
+}
+
+.style_table{
+    border: solid rgb(12, 12, 12);
+    margin: 10px;
+    margin-top: 30px;
+    font-size: 1rem;
+    max-width: 650px;
+    box-shadow: 0 0 20px rgba(0, 0, 0, 0.2);
+    padding: 0.2px;
+    margin-left: auto;
+    margin-right: auto;
+    border-collapse: collapse;
+
+}
+
+.style_table thead tr{
+    background-color: rgb(0, 0, 0);
+    color: white;
+    text-align: center;
+}
+
+.style_table tbody td{
+    border: solid black;
+
+}
+img{
+    width: 240px;
+    height: 200px;
+}
+tr, td{
+    padding: 5px 10px;
+    
+}
+
+.image-container{
+    display: flex;
+}
+
+.image-container img{
+    width: 100%;
+}
